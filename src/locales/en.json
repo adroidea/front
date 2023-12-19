@@ -1,0 +1,42 @@
+{
+    "translation": {
+        "navigation": {
+            "home": "Home",
+            "modules": "Modules",
+            "support": "Support"
+        },
+        "errors": {
+            "common": {
+                "oops": "Oops!"
+            },
+            "400": {
+                "title": "Bad Request",
+                "description": "The request sent by the client is malformed or invalid."
+            },
+            "401": {
+                "title": "Unauthorized",
+                "description": "The client must authenticate itself to get the requested response."
+            },
+            "403": {
+                "title": "Forbidden",
+                "description": "The client does not have permission to access the requested resource."
+            },
+            "404": {
+                "title": "Page Not Found",
+                "description": "The requested resource could not be found on the server."
+            },
+            "500": {
+                "title": "Internal Server Error",
+                "description": "A generic error message indicating that an unexpected condition was encountered on the server."
+            },
+            "503": {
+                "title": "Service Unavailable",
+                "description": "The server is not ready to handle the request. Commonly used during maintenance or if the server is overloaded."
+            },
+            "unexpected": {
+                "title": "Unexpected Error",
+                "description": "Sorry, an unexpected error has occurred."
+            }
+        }
+    }
+}

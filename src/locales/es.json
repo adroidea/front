@@ -1,0 +1,42 @@
+{
+    "translation": {
+        "navigation": {
+            "home": "Inicio",
+            "modules": "Módulos",
+            "support": "Soporte"
+        },
+        "errors": {
+            "common": {
+                "oops": "¡Ups!"
+            },
+            "400": {
+                "title": "Solicitud Incorrecta",
+                "description": "La solicitud enviada por el cliente está malformada o es inválida."
+            },
+            "401": {
+                "title": "No Autorizado",
+                "description": "El cliente debe autenticarse para obtener la respuesta solicitada."
+            },
+            "403": {
+                "title": "Prohibido",
+                "description": "El cliente no tiene permisos para acceder al recurso solicitado."
+            },
+            "404": {
+                "title": "Página no Encontrada",
+                "description": "No se pudo encontrar el recurso solicitado en el servidor."
+            },
+            "500": {
+                "title": "Error Interno del Servidor",
+                "description": "Un mensaje de error genérico que indica que se encontró una condición inesperada en el servidor."
+            },
+            "503": {
+                "title": "Servicio No Disponible",
+                "description": "El servidor no está listo para manejar la solicitud. Comúnmente usado durante mantenimiento o si el servidor está sobrecargado."
+            },
+            "unexpected": {
+                "title": "Error Inesperado",
+                "description": "Lo sentimos, se ha producido un error inesperado."
+            }
+        }
+    }
+}

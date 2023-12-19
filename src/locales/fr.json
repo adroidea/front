@@ -1,0 +1,42 @@
+{
+    "translation": {
+        "navigation": {
+            "home": "Accueil",
+            "modules": "Modules",
+            "support": "Support"
+        },
+        "errors": {
+            "common": {
+                "oops": "Oups!"
+            },
+            "400": {
+                "title": "Requête Incorrecte",
+                "description": "La requête envoyée par le client est malformée ou invalide."
+            },
+            "401": {
+                "title": "Non Autorisé",
+                "description": "Le client doit s'authentifier pour obtenir la réponse demandée."
+            },
+            "403": {
+                "title": "Interdit",
+                "description": "Le client n'a pas la permission d'accéder à la ressource demandée."
+            },
+            "404": {
+                "title": "Page Non Trouvée",
+                "description": "La ressource demandée n'a pas pu être trouvée sur le serveur."
+            },
+            "500": {
+                "title": "Erreur Interne du Serveur",
+                "description": "Un message d'erreur générique indiquant qu'une condition inattendue a été rencontrée sur le serveur."
+            },
+            "503": {
+                "title": "Service Indisponible",
+                "description": "Le serveur n'est pas prêt à traiter la demande. Couramment utilisé pendant la maintenance ou si le serveur est surchargé."
+            },
+            "unexpected": {
+                "title": "Erreur Inattendue",
+                "description": "Désolé, une erreur inattendue s'est produite."
+            }
+        }
+    }
+}
