@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Icons list](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:toggle_off:FILL@0;wght@400;GRAD@0;opsz@24)
+
 ## Available Scripts
 
 In the project directory, you can run:
