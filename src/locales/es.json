@@ -1,9 +1,27 @@
 {
     "translation": {
         "navigation": {
-            "home": "Inicio",
-            "modules": "Módulos",
-            "support": "Soporte"
+            "modules": {
+                "title": "Módulos",
+                "list": {}
+            },
+            "support": {
+                "title": "Support",
+                "list": {
+                    "discord": "Servidor de Discord",
+                    "documentation": "Documentación",
+                    "topgg": "Votar en Top.gg",
+                    "faq": "Preguntas Frecuentes",
+                    "status": "Estado del Servidor"
+                }
+            },
+            "userSettings": {
+                "login": "Iniciar Sesión",
+                "list": {
+                    "dashboard": "Panel de Control",
+                    "logout": "Cerrar Sesión"
+                }
+            }
         },
         "errors": {
             "common": {

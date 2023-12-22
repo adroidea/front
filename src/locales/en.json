@@ -1,9 +1,27 @@
 {
     "translation": {
         "navigation": {
-            "home": "Home",
-            "modules": "Modules",
-            "support": "Support"
+            "modules": {
+                "title": "Modules",
+                "list": {}
+            },
+            "support": {
+                "title": "Support",
+                "list": {
+                    "discord": "Join our Discord",
+                    "documentation": "Documentation",
+                    "topgg": "Vote on Top.gg",
+                    "faq": "FAQ",
+                    "status": "Check Status"
+                }
+            },
+            "userSettings": {
+                "login": "Login",
+                "list": {
+                    "dashboard": "Dashboard",
+                    "logout": "Logout"
+                }
+            }
         },
         "errors": {
             "common": {
